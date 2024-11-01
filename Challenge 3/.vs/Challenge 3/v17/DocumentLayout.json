@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|c:\\users\\catha\\documents\\unity\\challenge 3\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459287F-D6F8-5C68-F2CE-1992075DDE70}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepeatBackgroundX.cs",
+              "DocumentMoniker": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ToolTip": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:11:03.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:05:32.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveLeftX.cs",
+              "DocumentMoniker": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ToolTip": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:04:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\Catha\\Documents\\Unity\\Challenge 3\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:01:57.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
